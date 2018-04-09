@@ -1,3 +1,3 @@
 # Checkio
 
-Solutions from Checkio challenges
+My answers for Checkio challenges
